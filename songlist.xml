@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/css" href="songlist.css"?>
+
+
+<SongList>
+    <heading>Welcome to the Disney song list!</heading>
+    
+    <Song>
+        <Title>Title: Under the Sea</Title>
+        <Artist>Artist(s): Alan Menken, Howard Ashman</Artist>
+        <Genre>Genre: Pop/Reggae</Genre>
+        <Year>Release Year: 1989</Year>        
+    </Song>
+
+    <Song>
+        <Title>Title: You've Got a Friend in Me</Title>
+        <Artist>Artist(s): Randy Newman</Artist>
+        <Genre>Genre: Country/Pop</Genre>
+        <Year>Release Year: 1995</Year>        
+    </Song>
+
+    <Song>
+        <Title>Title: Go the Distance</Title>
+        <Artist>Artist(s): Alan Menken</Artist>
+        <Genre>Genre: Pop</Genre>
+        <Year>Release Year: 1997</Year>        
+    </Song>
+
+    <Song>
+        <Title>Title: A Whole New World</Title>
+        <Artist>Artist(s): Alan Menken</Artist>
+        <Genre>Genre: Pop</Genre>
+        <Year>Release Year: 1992</Year>        
+    </Song>
+
+    <Song>
+        <Title>Title: I Wan'na Be Like You</Title>
+        <Artist>Artist(s): Robert Sherman, Richard Sherman</Artist>
+        <Genre>Genre: Jazz</Genre>
+        <Year>Release Year: 1967</Year>        
+    </Song>
+
+    <Song>
+        <Title>Title: Colors of the Wind</Title>
+        <Artist>Artist(s): Alan Menken</Artist>
+        <Genre>Genre: Pop</Genre>
+        <Year>Release Year: 1995</Year>        
+    </Song>
+
+    <Song>
+        <Title>Title: Heigh-Ho</Title>
+        <Artist>Artist(s): Frank Churchill, Larry Morey</Artist>
+        <Genre>Genre: Pop</Genre>
+        <Year>Release Year: 1937</Year>        
+    </Song>
+
+    <Song>
+        <Title>Title: I'll Make a Man Out of You</Title>
+        <Artist>Artist(s): Matthew Wilder, David Zippel</Artist>
+        <Genre>Genre: Pop</Genre>
+        <Year>Release Year: 1998</Year>        
+    </Song>
+
+    <Song>
+        <Title>Title: Friend Like Me</Title>
+        <Artist>Artist(s): Alan Menken</Artist>
+        <Genre>Genre: Show Tune</Genre>
+        <Year>Release Year: 1992</Year>        
+    </Song>
+
+    <Song>
+        <Title>Title: Bibbidi-Bobbidi-Boo</Title>
+        <Artist>Artist(s): Al Hoffman, Mack David, Jerry Livingston</Artist>
+        <Genre>Genre: Show Tune</Genre>
+        <Year>Release Year: 1950</Year>        
+    </Song>
+
+    <Song>
+        <Title>Title: I Just Can't Wait to Be King</Title>
+        <Artist>Artist(s): Elton John, Tim Rice</Artist>
+        <Genre>Genre: Worldbeat/Rock'n'Roll</Genre>
+        <Year>Release Year: 1994</Year>        
+    </Song>
+
+    <Song>
+        <Title>Title: You'll Be in My Heart</Title>
+        <Artist>Artist(s): Phil Collins</Artist>
+        <Genre>Genre: Pop Rock</Genre>
+        <Year>Release Year: 1999</Year>        
+    </Song>
+
+    <Song>
+        <Title>Title: The Bells of Notre Dame</Title>
+        <Artist>Artist(s): Alan Menken</Artist>
+        <Genre>Genre: Musical Theatre</Genre>
+        <Year>Release Year: 1996</Year>        
+    </Song>
+
+    <Song>
+        <Title>Title: Immortals</Title>
+        <Artist>Artist(s): Fall Out Boy</Artist>
+        <Genre>Genre: Pop Rock</Genre>
+        <Year>Release Year: 2014</Year>        
+    </Song>
+
+    <Song>
+        <Title>Title: Beauty and the Beast</Title>
+        <Artist>Artist(s): Howard Ashman, Alan Menken</Artist>
+        <Genre>Genre: Show Tune</Genre>
+        <Year>Release Year: 1991</Year>        
+    </Song>
+    
+</SongList>
+
+
